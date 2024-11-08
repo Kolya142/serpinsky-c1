@@ -18,7 +18,7 @@ k[25-j] ? '#' : /*qk;a;s*/'-';for (int i
 int i = 0;/*awdascaw*/printf("\x1b[d"
 "\x1b[H");/*2341dsa24*/for (int c = 
 0; c/*2341dac24*/ < 80*25; c++) {
-if /*234124as*/(i % 80 == 79) {
+if /*234124as*/(c % 80 == 79) {
 putchar/*23wowddda24*/('\n');}
 else /*???????????*/{putchar(
 screen[c]);/* sdjawkaklc*/}}
